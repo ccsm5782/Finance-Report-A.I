@@ -1,0 +1,19 @@
+# --- Security (절대 업로드 금지) ---
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# --- Project Specific (자동 생성된 결과물 및 데이터) ---
+*.csv
+*.txt
+*.md
+!README.md
+!env_example..sh
+
+# --- Temporary/Test Files ---
+test.py
