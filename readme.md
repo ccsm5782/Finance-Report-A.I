@@ -169,6 +169,10 @@ TECHNICAL_STOCKS = 24  # 기술적 분석 대상 종목 수
 2. "Application 등록" → "뉴스" 선택
 3. Client ID와 Client Secret를 `.env` 파일에 입력
 
+## 출력 예시
+
+<img width="1465" height="478" alt="image" src="https://github.com/user-attachments/assets/0bf6eb2f-ea65-4bf0-8bcf-aad407f17aff" />
+
 
 ## 🚀 추후 보완 및 발전 방향
 
@@ -192,9 +196,6 @@ korean-stock-analyzer/
 ├── .env                   # API 키 설정 파일 (보안상 키 무효화됨)
 └── README.md              # 설명서
 ```
-
-## 출력 예시
-<img width="1465" height="478" alt="image" src="https://github.com/user-attachments/assets/0bf6eb2f-ea65-4bf0-8bcf-aad407f17aff" />
 
 
 
