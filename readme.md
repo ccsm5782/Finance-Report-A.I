@@ -193,6 +193,10 @@ korean-stock-analyzer/
 └── README.md              # 설명서
 ```
 
+## 출력 예시
+<img width="1465" height="478" alt="image" src="https://github.com/user-attachments/assets/0bf6eb2f-ea65-4bf0-8bcf-aad407f17aff" />
+
+
 
 **"한국 증시 지수별 구성종목 심층분석 기반 일일 투자보고서 자동화 시스템"**
 
